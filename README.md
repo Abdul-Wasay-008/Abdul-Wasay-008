@@ -12,7 +12,7 @@
 I’m a full-stack engineer from Pakistan, currently working at **Python Technologies** and building production-grade applications across SaaS, AI, mobile, and cloud.
 
 Alongside full-stack development, I specialize in **System Architecture**, designing how entire software systems should work end-to-end.  
-From defining the tech stack, structuring backend services, planning deployments, managing cloud infrastructure, to pushing stable builds into production — I enjoy creating systems that are clean, scalable, and reliable.
+From defining the tech stack, structuring backend services, planning deployments, managing cloud infrastructure, to pushing stable builds into production, I enjoy creating systems that are clean, scalable, and reliable.
 
 I’m also an entrepreneur at heart, building products like **PreQursor**, **Hakem.ai**, **Tunefly**, and **Atlas26**, each teaching me how to design better architectures and ship real software fast.
 
