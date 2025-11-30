@@ -110,7 +110,7 @@ I’m also an entrepreneur at heart, building products like **PreQursor**, **Hak
 
 ## Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/abdul-wasay-khan-35914b241">
+  <a href="https://www.linkedin.com/in/abdul-wasay-khan-35914b241">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:wasay7757@gmail.com">
