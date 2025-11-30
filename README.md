@@ -30,7 +30,7 @@ I’m also an entrepreneur at heart, building products like **PreQursor**, **Hak
 
 ## Currently Learning
 
-- I Engineering (LLMs, RAG, Vector Databases, Agents)  
+- AI Engineering (LLMs, RAG, Vector Databases, Agents)  
 - Machine Learning fundamentals  
 - Cloud Infrastructure (AWS, DigitalOcean, Vercel)  
 
