@@ -20,11 +20,11 @@ I’m also an entrepreneur at heart, building products like **PreQursor**, **Hak
 
 ## What I'm Working On
 
-- 🛰 **Atlas26** – Real-time 3D space visualization using Next.js + Three.js  
-- 🤖 **Hakem.ai** – AI-powered insurance comparison SaaS  
-- 🎵 **TuneFly** – Music marketing mobile + web platform  
-- 🛒 **Mono Merchants** – E-commerce + WhatsApp automation  
-- 🎮 **PreQursor** – Pakistan’s first Esports match-hosting platform
+- **Atlas26** – Real-time 3D space visualization using Next.js + Three.js  
+- **Hakem.ai** – AI-powered insurance comparison SaaS  
+- **TuneFly** – Music marketing mobile + web platform  
+- **Mono Merchants** – E-commerce + WhatsApp automation  
+- **PreQursor** – Pakistan’s first Esports match-hosting platform
 
 
 
