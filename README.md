@@ -108,12 +108,30 @@ I’m also an entrepreneur at heart, building products like **PreQursor**, **Hak
 </p>
 
 
+## GitHub Stats
+<div align="center">
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-Wasay-008&show_icons=true&theme=react&border_radius=20&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    width="420"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdul-Wasay-008&layout=compact&theme=react&border_radius=20&hide_border=true"
+    width="420"
+    height="180"
+  />
+
+</div>
+
+
 ## Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdul-wasay-khan-35914b241">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-wasay-khan-35914b241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:wasay7757@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:wasay7757@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
